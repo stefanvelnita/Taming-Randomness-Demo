@@ -45,3 +45,5 @@ Thumbs.db
 # ===================================== #
 AssetSources/
 Recordings/
+_docs/
+.vsconfig
